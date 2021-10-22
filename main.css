@@ -12,7 +12,7 @@ body {
     
 }
 .hero-bg{
-        background: #307D99 url('./images/bg1.jpg');
+        background: #307D99 url('https://res.cloudinary.com/dsuszxufx/image/upload/v1634910667/bg1_ahour9.jpg');
         background-position: 5% 103%;
         color:white;
         text-align: center;
@@ -197,14 +197,14 @@ input[type=button]{
     height: fit-content;
     font-size: 1,1em;
     margin-left: 1em;
-    margin-top: 1em;
-    padding: 2.5em 0; 
+    margin-top: 3em;
+    padding: 1em 0; 
     width: 30%;
 }
 .hero-bg p{
     margin-bottom: 0;
 }
-.section-authentic{
+.Authentic{
     display: grid;
     grid-template-columns: repeat(2, 50%);
     grid-template-areas: 
